@@ -1,6 +1,6 @@
 require 'cgi'
 require 'nkf'
-
+#test
 class Mechanize::Util
   CODE_DIC = {
     NKF::JIS => "ISO-2022-JP",
